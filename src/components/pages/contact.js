@@ -31,7 +31,7 @@ const ContactUs = () => {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 22s-8-4.5-8-11.8c0-4.1 2.3-7.6 5.5-9.4"/>
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 7a4 4 0 11-8 0 4 4 0 018 0z"/>
                 </svg>
-                rozalandRealEstate@gmail.com
+                rozaland@realestate.com
               </li>
             </ul>
           </div>
